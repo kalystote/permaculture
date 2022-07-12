@@ -1,1 +1,1 @@
-__all__ = ["requetesql"]
+__all__ = ["requetesql","fonctions"]
